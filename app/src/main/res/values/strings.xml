@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aouth0</string>
+    <string name="login">Log in</string>
+    <string name="auth0_client_id">MyClient</string>
+    <string name="auth0_domain">Qushishgatayyor</string>
+    <string name="api_url">http://185.74.4.198:8080/timesheets</string>
+</resources>
